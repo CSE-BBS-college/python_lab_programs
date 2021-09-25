@@ -1,1 +1,1 @@
-### All programs mention under Python language lab
+### All programs mentioned under Python language lab
