@@ -1,6 +1,5 @@
 #program to find GCd of two numbers
 
-
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 i = 1
